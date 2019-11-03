@@ -1,0 +1,4 @@
+<view class="nav">
+  <text class="welcome">欢迎来到我的个人页</text>
+  <image src="/images/avatar.jpg" mode="aspectFill" bindtap="changeImage"></image>
+</view>
